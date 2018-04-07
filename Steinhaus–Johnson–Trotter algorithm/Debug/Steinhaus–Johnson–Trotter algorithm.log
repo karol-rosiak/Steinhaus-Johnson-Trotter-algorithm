@@ -1,0 +1,8 @@
+﻿  Steinhaus–Johnson–Trotter algorithm.cpp
+c:\users\lokar\source\repos\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm.cpp(21): warning C4042: 'tab': has bad storage class
+c:\users\lokar\source\repos\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm.cpp(26): warning C4042: 'tab2': has bad storage class
+c:\users\lokar\source\repos\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm.cpp(31): warning C4042: 'tab': has bad storage class
+c:\users\lokar\source\repos\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm.cpp(31): warning C4042: 'direction': has bad storage class
+c:\users\lokar\source\repos\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\lokar\source\repos\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm\steinhaus–johnson–trotter algorithm.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  Steinhaus–Johnson–Trotter algorithm.vcxproj -> C:\Users\Lokar\Source\Repos\Steinhaus–Johnson–Trotter algorithm\Debug\Steinhaus–Johnson–Trotter algorithm.exe
